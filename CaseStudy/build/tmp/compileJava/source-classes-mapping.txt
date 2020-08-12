@@ -1,0 +1,10 @@
+com/codegym/model/NoteDB.java
+ com.codegym.model.NoteDB
+com/codegym/model/iNote.java
+ com.codegym.model.iNote
+com/codegym/model/NoteManagement.java
+ com.codegym.model.NoteManagement
+com/codegym/model/NoteFile.java
+ com.codegym.model.NoteFile
+com/codegym/model/NoteType.java
+ com.codegym.model.NoteType
